@@ -10,7 +10,6 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 - 🌱 J'approfondis mes connaissances en **JavaScript** et en intégration d'API.
 
 ### 🛠 Mon Stack Technique
-
 | Langages | Frameworks & Outils | Base de données & Backend |
 | :--- | :--- | :--- |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -19,6 +18,7 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white) | |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Bukkit](https://img.shields.io/badge/Bukkit-F16436?style=for-the-badge&logo=minecraft&logoColor=white) | |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) | | |
 ### 📊 Mes Statistiques GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BlackAngelTVdev&show_icons=true&theme=dark&hide_border=true" alt="Stats de BlackAngelTVdev" width="400" />
