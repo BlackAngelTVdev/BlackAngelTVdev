@@ -23,8 +23,8 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 
 ### 📊 Mes Statistiques GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackAngelTVdev&show_icons=true&theme=dark&hide_border=true" alt="Stats de BlackAngelTVdev" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAngelTVdev&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackAngelTVdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAngelTVdev&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </p>
 
 ---
