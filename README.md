@@ -21,11 +21,6 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | |
 | | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) | |
 
-### 📊 Mes Statistiques GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackAngelTVdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAngelTVdev&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
 
 ---
 
