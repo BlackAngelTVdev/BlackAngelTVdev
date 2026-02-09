@@ -24,10 +24,8 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img alt="Luuxis GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlackAngelTVdev&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img alt="Luuxis GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAngelTVdev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=BlackAngelTVdev&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackAngelTVdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ⚡ Fun Fact
 *Je préfère passer 5 heures à automatiser une tâche qui prend 5 minutes à faire à la main !* 🤖
