@@ -6,7 +6,7 @@ Bienvenue sur mon profil ! Je suis un développeur passionné par la création d
 ---
 
 ### 🚀 Ce que je fais en ce moment
-- 🔭 Je travaille actuellement sur l'amélioration de mon projet [de cloud public](https://cloud.laxacube.ch) et [Je donne, je prête](https://github.com/BlackAngelTVdev/Je-donne-ou-je-prete).
+- 🔭 Je travaille actuellement sur l'amélioration de mon projet [Flash Cadrs](https://github.com/BlackAngelTVdev/P_bulle-flshcard) et [Je donne, je prête](https://github.com/BlackAngelTVdev/Je-donne-ou-je-prete).
 - 🌱 J'approfondis mes connaissances en **JavaScript** et en intégration d'API.
 
 ### 🛠️ Stack Technique
