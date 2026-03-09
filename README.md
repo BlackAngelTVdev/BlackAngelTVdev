@@ -1,6 +1,6 @@
 # Salut ! Moi c'est BlackAngelTVdev 👋
 
-### 👨‍💻 Développeur Full-Stack | Spécialiste AdonisJS & Intégration IA
+### 👨‍💻 Développeur Full-Stack
 Bienvenue sur mon profil ! Je suis un développeur passionné par l'automatisation et l'intégration de l'IA dans les applications web.
 
 ---
